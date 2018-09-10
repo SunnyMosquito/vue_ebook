@@ -1,5 +1,7 @@
 # vue_ebook
 
+web电子书阅读器，使用了epubjs和vue框架
+
 ## Project setup
 
 ```shell
